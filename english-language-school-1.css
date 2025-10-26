@@ -1,0 +1,90 @@
+body{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.navbar{
+    /* border: 1px solid #000; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    /* border: 1px solid #000; */
+    margin: 10px;
+    width: 30px;
+}
+.menu{
+    /* border: 1px solid #000; */
+    margin: 10px;
+}
+.login{
+    /* border: 1px solid #000; */
+    margin: 10px;
+    text-decoration: none;
+}
+.menu_a{
+    text-decoration: none;
+    margin: 10px;
+}
+
+.main{
+    /* border: 1px solid #000; */
+    display: flex;
+}
+
+.main_img{
+    /* border: 1px solid #000; */
+}
+
+.papka{
+    width: 200px;
+}
+.kompyuter{
+    width: 400px;
+}
+.to-do-list{
+    width: 300px;
+}
+.tennis{
+    width: 150px;
+}
+.katta{
+    font-size: 30px;
+}
+
+.chap_rasmlar{
+    /* border: 1px solid #000; */
+    margin-left: 200px;
+    background-image: url(Figma_rasmlari/english-language-school/background-image.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.ong_text_va_button{
+    /* border: 1px solid #000; */
+    margin: 10px;
+}
+.get_started{
+    background-color: aquamarine;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.email{
+    font-size: 25px;
+    width: 150px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.input_va_button{
+    /* border: 1px solid #000; */
+    display: flex;
+    align-items: center;
+
+}
+
+
